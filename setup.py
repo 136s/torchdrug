@@ -34,7 +34,7 @@ if __name__ == "__main__":
             "torch-cluster>=1.5.9",
             "decorator",
             "numpy>=1.11",
-            "rdkit-pypi>=2020.9",
+            "rdkit>=2020.9",
             "matplotlib",
             "tqdm",
             "networkx",
